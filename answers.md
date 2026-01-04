@@ -6,4 +6,6 @@ LEVEL 3 COMPLETE: GIT LOG ONELINE COMPLETE
 
 LEVEL 4 COMPLETE: fixed the hallway sign
 
-LEVEL 5 COMPLETE: Git branch complete
+LEVEL 5 COMPLETE: Git branch 
+
+LEVEL 6 CHEST CODE: FOX-7
